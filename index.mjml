@@ -65,7 +65,7 @@
 
     <mj-hero mode="fixed-height" height="500px" background-width="600px" background-height="469px" background-url="https://i.ibb.co/yy3f75V/image-girl-opt.jpg" background-color="#2a3448" padding="170px 20px 40px 20px">
       <!-- <mj-image width="40px" height="40px" padding="0" border-radius="100px" src="https://i.ibb.co/HqnVpQy/image-05-logo-opt.jpg" alt="Savannah Bee Company Logo" href="#" /> -->
-      <mj-text align="center" color="#FFFFFF" font-size="40px" font-weight="900">
+      <mj-text align="center" color="#FFFFFF" font-family="Permanent Marker" font-size="40px" font-weight="900">
         Sail Eternity
       </mj-text>
       <mj-text color="#FFFFFF" align="center" font-size="20px" font-weight="400" font-family="Poppins, Helvetica" padding-bottom="24px">Set Sail for Timeless Fashion</mj-text>
@@ -114,7 +114,7 @@
     <!-- products 1 & 2-->
     <mj-section background-color="#FFFFFF" padding="0 16px">
       <mj-column padding-top="24px">
-        <mj-image border-radius="4px" href="#" src="https://i.ibb.co/PwPwG5L/image-01a-opt.jpg" alt="Whipped Honey with Lemon image" />
+        <mj-image border-radius="4px" href="#" src="https://i.ibb.co/TTHWhjP/image-01a.jpg" alt="Whipped Honey with Lemon image" />
         <mj-text align="center" line-height="20px" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="20px" color="deeppink">Dragon's Embrace</mj-text>
         <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Dive into a world of mythical allure with our "Dragon's Embrace" white t-shirt.</mj-text>
       </mj-column>
@@ -129,12 +129,12 @@
     <!-- products 3 & 4-->
     <mj-section background-color="#FFFFFF" padding="0 20px 30px 20px">
       <mj-column padding-top="24px">
-        <mj-image border-radius="4px" href="#" src="https://i.ibb.co/WtWQ8Kx/image-03-opt.jpg" alt="Whipped Honey with Cinnamon image" />
+        <mj-image border-radius="4px" href="#" src="https://i.ibb.co/p19SbQw/image-03-opt.jpg" alt="Whipped Honey with Cinnamon image" />
         <mj-text align="center" line-height="20px" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="20px" color="deeppink">Fierce Fury</mj-text>
         <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Unleash your inner strength with our "Fierce Fury" white t-shirt featuring the intense gaze of an angry tiger.</mj-text>
       </mj-column>
       <mj-column padding-top="24px">
-        <mj-image border-radius="4px" href="#" src="https://i.ibb.co/bWPh3S9/image-04-opt.jpg" alt="Whipped Honey with Cinnamon image" />
+        <mj-image border-radius="4px" href="#" src="https://i.ibb.co/TvRSxxD/image-04-opt.jpg" alt="Whipped Honey with Cinnamon image" />
         <mj-text align="center" line-height="20px" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="20px" color="deeppink">Ethereal Guardians</mj-text>
         <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Step into a realm where the ethereal meets the mysterious with our "Ethereal Guardians" white t-shirt. </mj-text>
       </mj-column>
@@ -188,7 +188,7 @@
     <mj-section background-color="#FFFFFF" padding="10px 25px 20px 25px">
       <mj-column>
 
-        <mj-text align="center" line-height="0.5" font-family="Permanent Marker" font-size="20px" font-weight="600" color="#000000" padding="16px 0">
+        <mj-text align="center" line-height="0.5" font-family="Permanent Marker" font-size="20px" font-weight="600" color="#000000" padding="16px 0" letter-spacing="1px">
           Contact
         </mj-text>
 
@@ -197,7 +197,7 @@
         </mj-text>
         <!-- </mj-column> -->
         <!-- <mj-column> -->
-        <mj-text align="center" line-height="0.5" font-family="Permanent Marker" font-size="20px" font-weight="600" color="#000000" padding="16px 0">
+        <mj-text align="center" line-height="0.5" font-family="Permanent Marker" font-size="20px" font-weight="600" color="#000000" padding="16px 0" letter-spacing="1px">
           Address
         </mj-text>
         <mj-text align="center" font-family="Poppins, Helvetica" font-size="16px" color="#000000" line-height="22px" padding="0">
