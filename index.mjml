@@ -2,60 +2,36 @@
   <mj-head>
     <mj-breakpoint width="480px" />
     <mj-title>Sail Eternity | Set Sail For Timeless Fashion</mj-title>
-    <mj-style>
-      .btn button {
-        font-family: "Arial", cursive;
-        font-weight: 400;
-        font-style: normal;
-      }
-    </mj-style>
     <mj-style inline="inline">
       span {
-        color: deeppink;
-      }
-
-      .overlay {
-        background-color: rgba(0, 0, 0, .9) !important;
-      }
-
-      .img-1 {
-        display: block !important;
-        width: 100% !important;
-        padding-bottom: 40px;
-
+        color: #FF1493;
       }
     </mj-style>
     <mj-attributes>
       <mj-all font-family="Poppins, Helvetica" />
-      <mj-social-element background-color="#000000" border-radius="20px" icon-size="30px" padding="10px">
+      <mj-social-element background-color="#FF1493" border-radius="20px" icon-size="30px" padding="10px">
       </mj-social-element>
     </mj-attributes>
     <mj-font name="Permanent Marker" href='https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap' />
   </mj-head>
 
-  <mj-body background-color="#222222">
+  <mj-body background-color="#EDEDED">
     <!-- banner -->
-    <mj-section background-color="#000000" padding="16px">
+    <mj-section background-color="#000000" padding="8px">
       <mj-column>
-        <mj-button href="#" background-color="#000000" color="deeppink" font-size="16px" padding="0"> 20% OFF SALE with Our Special Offer!</mj-button>
+        <mj-text align="center" background-color="#000000" color="#FF1493" font-size="16px" padding="0">20% OFF SALE with Our Special Offer!</mj-text>
       </mj-column>
     </mj-section>
     <!-- /banner -->
 
     <!-- hero -->
-    <!-- <mj-section background-color="#FFFFFF" padding="0"> -->
-    <!-- <mj-column>
-
-        <mj-image css-class="img-1" border-radius="0" padding="0" href="#" src="https://i.ibb.co/yy3f75V/image-girl-opt.jpg" alt="girl with shirt" />
-      </mj-column> -->
-
     <mj-hero mode="fixed-height" height="500px" background-width="100%" background-height="469px" background-url="https://i.ibb.co/yy3f75V/image-girl-opt.jpg" background-color="#000000" padding="170px 20px 40px 20px">
       <!-- <mj-image width="40px" height="40px" padding="0" border-radius="100px" src="https://i.ibb.co/HqnVpQy/image-05-logo-opt.jpg" alt="Savannah Bee Company Logo" href="#" /> -->
-      <mj-text align="center" color="#FFFFFF" font-family="Permanent Marker" font-size="44px" font-weight="900" padding="0">
+      <mj-text align="center" color="#FFFFFF" font-family="Permanent Marker" font-size="46px" font-weight="900" padding="0">
         Sail Eternity
       </mj-text>
-      <mj-text color="#FFFFFF" align="center" font-size="20px" font-weight="400" font-family="Poppins, Helvetica" padding-bottom="24px">Set Sail for Timeless Fashion</mj-text>
-      <mj-button css-class="btn" width="220px" height="55px" letter-spacing="1px" background-color="#000000" color="deeppink" font-size="18px" font-weight="500" border-radius="4px" padding-top="12px" href="#">Get The Shoppin'</mj-button>
+      <mj-text color="#EDEDED" align="center" font-size="20px" font-weight="400" font-family="Poppins, Helvetica" padding-bottom="24px">Set Sail for Timeless Fashion</mj-text>
+      <mj-button css-class="btn" width="210px" height="55px" letter-spacing="1px" background-color="#000000" color="#FF1493" font-size="18px" font-weight="500" border-radius="4px" padding-top="12px" href="#">Get The Shoppin'</mj-button>
 
     </mj-hero>
     <!-- </mj-section> -->
@@ -74,7 +50,7 @@
     <!-- sail eternity logo -->
     <mj-section background-color="#FFFFFF" padding="30px 0 16px 0">
       <mj-column>
-        <mj-image width="80px" height="80px" padding="0" border="2px solid deeppink" border-radius="100px" src="https://i.ibb.co/jZT7cHM/se-logo-opt.jpg" alt="" href="#">
+        <mj-image width="80px" height="80px" padding="0" border="2px solid #FF1493" border-radius="100px" src="https://i.ibb.co/jZT7cHM/se-logo-opt.jpg" alt="" href="#">
       </mj-column>
     </mj-section>
     <!-- /sail eternity logo -->
@@ -82,9 +58,9 @@
     <!-- product title -->
     <mj-section background-color="#FFFFFF" padding="20px 16px">
       <mj-column>
-        <mj-text align="center" padding="0" font-size="30px" font-weight="600" font-family="Poppins, Helvetica" color="#000000">Navigating Style Beyond Boundaries</mj-text>
+        <mj-text align="center" padding="0" font-size="30px" font-weight="600" font-family="Poppins, Helvetica" color="#000000" line-height="36px">Navigating Style Beyond Boundaries</mj-text>
         <!-- <mj-text align="center" font-weight="600" font-size="36px" color="#000000">Sail Eternity</mj-text> -->
-        <mj-text line-height="1.5" padding="20px 0 0 0" font-size="18px" font-family="Poppins, Helvetica" color="#000000" align="center">Sail Eternity takes you on a voyage through the realms of timeless fashion, where every piece is a manifestation of elegance and sophistication. Inspired by the boundless expanse of the ocean, our clothing brand embodies the spirit of adventure and exploration.</mj-text>
+        <mj-text line-height="1.5" padding="20px 0 0 0" font-size="18px" font-family="Poppins, Helvetica" color="#000000" align="center"><strong>Sail Eternity</strong> takes you on a voyage through the realms of timeless fashion, where every piece is a manifestation of elegance and sophistication. Inspired by the boundless expanse of the ocean, our clothing brand embodies the spirit of adventure and exploration.</mj-text>
       </mj-column>
     </mj-section>
     <!-- /product titl -->
@@ -101,28 +77,28 @@
     <mj-section background-color="#FFFFFF" padding="0 8px">
       <mj-column padding-top="24px">
         <mj-image border-radius="4px" padding="10px 8px" href="#" src="https://i.ibb.co/K9LM0BL/image-01a.jpg" alt="Dragon's Embrace" />
-        <mj-text align="center" line-height="20px" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="20px" color="deeppink">Dragon's Embrace</mj-text>
-        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Dive into a world of mythical allure with our "Dragon's Embrace" white t-shirt.</mj-text>
+        <mj-text align="center" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="22px" color="#FF1493">Dragon's Embrace</mj-text>
+        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000" padding="8px">Dive into a world of mythical allure with our "Dragon's Embrace" white t-shirt.</mj-text>
       </mj-column>
 
       <mj-column padding-top="24px">
         <mj-image border-radius="4px" padding="10px 8px" href="#" src="https://i.ibb.co/QMRvzVR/image-02-opt.jpg" alt="Whispers of Nature" />
-        <mj-text align="center" line-height="20px" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="20px" color="deeppink">Whispers of Nature</mj-text>
-        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Embrace the harmony of nature with our "Whispers of Nature" white t-shirt.</mj-text>
+        <mj-text align="center" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="22px" color="#FF1493">Whispers of Nature</mj-text>
+        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000" padding="8px">Embrace the harmony of nature with our "Whispers of Nature" white t-shirt.</mj-text>
       </mj-column>
     </mj-section>
     <!-- /products 1 & 2-->
     <!-- products 3 & 4-->
-    <mj-section background-color="#FFFFFF" padding="0 16px 30px 16px">
+    <mj-section background-color="#FFFFFF" padding="0 8px 30px 8px">
       <mj-column padding-top="24px">
         <mj-image border-radius="4px" padding="10px 8px" href="#" src="https://i.ibb.co/p19SbQw/image-03-opt.jpg" alt="Fierce Fury" />
-        <mj-text align="center" line-height="20px" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="20px" color="deeppink">Fierce Fury</mj-text>
-        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Unleash your inner strength with our "Fierce Fury" white t-shirt featuring the intense gaze of an angry tiger.</mj-text>
+        <mj-text align="center" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="22px" color="#FF1493">Fierce Fury Tiger</mj-text>
+        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000" padding="8px">Unleash your inner strength with our "Fierce Fury" white t-shirt featuring the intense gaze of an angry tiger.</mj-text>
       </mj-column>
       <mj-column padding-top="24px">
         <mj-image border-radius="4px" padding="10px 8px" href="#" src="https://i.ibb.co/TvRSxxD/image-04-opt.jpg" alt="Ethereal Guardians" />
-        <mj-text align="center" line-height="20px" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="20px" color="deeppink">Ethereal Guardians</mj-text>
-        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Step into a realm where the ethereal meets the mysterious with our "Ethereal Guardians" white t-shirt. </mj-text>
+        <mj-text align="center" letter-spacing="1px" font-family="Permanent Marker" font-weight="600" font-size="22px" color="#FF1493">Ethereal Guardians</mj-text>
+        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000" padding="8px">Step into a realm where the ethereal meets the mysterious with our "Ethereal Guardians" white t-shirt. </mj-text>
       </mj-column>
     </mj-section>
     <!-- /products 3 & 4-->
@@ -131,7 +107,7 @@
     <!-- CTA 2 -->
     <mj-section padding="0" background-color="#FFFFFF">
       <mj-column padding="20px 16px 20px 16px">
-        <mj-button href="#" padding="0" width="100%" height="55px" border-radius="4px" background-color="#000000" color="deeppink" border="2px solid #000000" font-size="18px" font-weight="600" text-transform="uppercase" letter-spacing="1px" href="#">Snag Your Epic Tee Now!</mj-button>
+        <mj-button href="#" padding="0" width="100%" height="55px" border-radius="4px" background-color="#000000" color="#FF1493" border="2px solid #000000" font-size="18px" font-weight="600" text-transform="uppercase" letter-spacing="1px" href="#">Snag Your Epic Tee!</mj-button>
       </mj-column>
     </mj-section>
     <!-- /CTA 2 -->
@@ -145,9 +121,9 @@
     <!-- /divider -->
 
     <!-- company boilerplate -->
-    <mj-section background-color="#000000" padding="50px 16px">
+    <mj-section background-color="#000000" padding="40px 16px">
       <mj-column width="100%">
-        <mj-text line-height="1.5" padding="0" font-size="18px" font-family="Poppins, Helvetica" font-weight="500" color="#FFFFFF">At <span>Sail Eternity</span>, we believe in capturing the essence of wanderlust and exploration in every stitch, weaving tales of nautical escapades and coastal charm into our designs. Inspired by the boundless expanse of the ocean, our clothing celebrates the freedom of movement and the allure of discovery.</mj-text>
+        <mj-text line-height="1.5" padding="0" font-size="18px" font-family="Poppins, Helvetica" font-weight="300" color="#FFFFFF">At <strong>Sail Eternity</strong>, we believe in capturing the essence of wanderlust and exploration in every stitch, weaving tales of nautical escapades and coastal charm into our designs. Inspired by the boundless expanse of the ocean, our clothing celebrates the freedom of movement and the allure of discovery.</mj-text>
       </mj-column>
     </mj-section>
     <!-- /company boilerplate -->
@@ -156,20 +132,15 @@
     <!-- sail eternity logo -->
     <mj-section background-color="#FFFFFF" padding="60px 20px 0px 20px">
       <mj-column>
-        <mj-image width="60px" height="60px" padding="0" border="2px solid deeppink" border-radius="100px" src="https://i.ibb.co/jZT7cHM/se-logo-opt.jpg" alt="Savannah Bee Company Logo" href="#">
+        <mj-image width="60px" height="60px" padding="0" border="2px solid #FF1493" border-radius="100px" src="https://i.ibb.co/jZT7cHM/se-logo-opt.jpg" alt="" href="#">
       </mj-column>
     </mj-section>
     <mj-section background-color="#FFFFFF" padding="0 0 30px 0">
       <mj-column>
-        <mj-text font-family="Permanent Marker" font-size="42px" align="center" color="deeppink">Sail Eternity</mj-text>
+        <mj-text font-family="Permanent Marker" font-size="42px" align="center" color="#FF1493">Sail Eternity</mj-text>
+        <mj-text font-size="16px" font-weight="400" align="center" color="#555555" padding="2px">Set Sail for Timeless Fashion</mj-text>
       </mj-column>
     </mj-section>
-    <!-- /sail eternity logo -->
-    <!-- <mj-section background-color="#FFFFFF" padding="70px 20px 40px 20px">
-      <mj-column>
-        <mj-image align="left" padding="0 24px" width="100px" src="https://i.ibb.co/HqnVpQy/image-05-logo-opt.jpg" alt="Savannah Bee Company Logo" href="https://savannahbee.com/">
-      </mj-column>
-    </mj-section> -->
 
     <mj-section background-color="#FFFFFF" padding="10px 25px 20px 25px">
       <mj-column>
@@ -183,21 +154,13 @@
         </mj-text>
       </mj-column>
       <mj-column>
-        <!-- </mj-column> -->
-        <!-- <mj-column> -->
         <mj-text align="center" line-height="0.5" font-family="Permanent Marker" font-size="20px" font-weight="600" color="#000000" padding="16px 0" letter-spacing="1px">
           Address
         </mj-text>
         <mj-text align="center" font-family="Poppins, Helvetica" font-size="16px" color="#000000" line-height="22px" padding="0">
           390 N State Route 89A <br>Sedona, AZ 8633 <br>
         </mj-text>
-        <mj-button background-color="#FFFFFF" color="deeppink" font-size="18px" href="#">Unsubscribe</mj-button>
-
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="#FFFFFF" padding="0">
-      <mj-column>
+        <mj-button background-color="#FFFFFF" color="#000000" font-size="18px" href="#">Unsubscribe</mj-button>
 
       </mj-column>
     </mj-section>
@@ -219,7 +182,7 @@
     <!-- end footr -->
     <mj-section background-color="#000000" padding="8px">
       <mj-column>
-        <mj-text align="center" font-size="13px" font-family="Poppins, Helvetica" font-weight="500" color="#FAFAFA">Copyright© 2024 SailEternity</mj-text>
+        <mj-text align="center" font-size="16px" font-family="Poppins, Helvetica" font-weight="400" color="#EDEDED">Copyright© 2024 <span>SailEternity</span></mj-text>
       </mj-column>
     </mj-section>
     <!-- /end footr -->
