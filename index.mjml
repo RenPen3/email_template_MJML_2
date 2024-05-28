@@ -1,0 +1,217 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title>Email Template 2</mj-title>
+    <mj-style inline="inline">
+      .overlay {
+        background-color: rgba(0, 0, 0, .9) !important;
+      }
+
+      .img-1 {
+        display: block !important;
+        width: 100% !important;
+        padding-bottom: 40px;
+
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-class name="banner" color="#222222" />
+      <mj-all font-family="Helvetica" />
+      <mj-social-element background-color="#002855" icon-size="30px" padding="10px">
+      </mj-social-element>
+    </mj-attributes>
+    <mj-font name="Helvetica" href='https://fonts.googleapis.com/css2?family=Poppins' />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GJ0FFVTG9R"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'G-GJ0FFVTG9R');
+    </script>
+  </mj-head>g
+
+  <mj-body background-color="#222222">
+    <!-- banner -->
+    <mj-section background-color="#000000" padding="16px 24px">
+      <mj-column>
+        <mj-text align="center" mj-class="banner" color="deeppink" font-size="16px" font-weight="400" padding="0" line-height="18px">
+          20% OFF SALE with Our Special Offer!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- /banner -->
+
+    <!-- hero -->
+    <!-- <mj-section background-color="#FFFFFF" padding="0"> -->
+    <!-- <mj-column>
+
+        <mj-image css-class="img-1" border-radius="0" padding="0" href="#" src="https://i.ibb.co/yy3f75V/image-girl-opt.jpg" alt="girl with shirt" />
+      </mj-column> -->
+
+    <mj-hero mode="fixed-height" height="469px" background-width="600px" background-height="469px" background-url="https://i.ibb.co/yy3f75V/image-girl-opt.jpg" background-color="#2a3448" padding="140px 20px 40px 20px">
+      <!-- <mj-image width="40px" height="40px" padding="0" border-radius="100px" src="https://i.ibb.co/HqnVpQy/image-05-logo-opt.jpg" alt="Savannah Bee Company Logo" href="#" /> -->
+      <mj-text align="center" color="#FFFFFF" font-size="40px" font-weight="900">
+        Sail Eternity
+      </mj-text>
+      <mj-text color="#FFFFFF" align="center" font-size="20px" font-weight="400" font-family="Poppins, Helvetica" padding-bottom="24px">Set Sail for Timeless Fashion</mj-text>
+      <mj-button css-class="btn" width="220px" height="55px" letter-spacing="1px" background-color="#000000" color="deeppink" font-size="18px" font-weight="500" border-radius="4px" padding="12px" href="#">Get The Shoppin'</mj-button>
+
+    </mj-hero>
+    <!-- </mj-section> -->
+
+    <!-- /hero -->
+
+    <!-- Discount Banner -->
+    <mj-section background-color="#FFFFFF" padding="20px 0px 0px 0px">
+      <mj-column>
+        <mj-text font-size="60px" font-weight="900" color="#000000" padding="0 10px 0 24px">
+          Rock Out With Your Shirts Out!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- sail eternity logo -->
+    <mj-section background-color="#FFFFFF" padding="30px 0 0 0">
+      <mj-column>
+        <mj-image width="80px" height="80px" padding="0" border-radius="100px" src="https://i.ibb.co/jZT7cHM/se-logo-opt.jpg" alt="Savannah Bee Company Logo" href="#">
+      </mj-column>
+    </mj-section>
+    <!-- /sail eternity logo -->
+
+    <!-- product title -->
+    <mj-section background-color="#FFFFFF" padding="20px 0 0 0">
+      <mj-column>
+        <mj-text align="center" font-size="20px" font-family="Poppins, Helvetica" color="#000000">Navigating Style Beyond Boundaries</mj-text>
+        <mj-text align="center" font-weight="600" font-size="36px" color="#000000">Sail Eternity</mj-text>
+        <mj-text line-height="1.5" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Sail Eternity takes you on a voyage through the realms of timeless fashion, where every piece is a manifestation of elegance and sophistication. Inspired by the boundless expanse of the ocean, our clothing brand embodies the spirit of adventure and exploration.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- /product titl -->
+
+    <!-- divider -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-divider border-width="3px" border-style="solid" border-color="#000000" width="50%" padding="10px 10px 20px 10px" />
+      </mj-column>
+    </mj-section>
+    <!-- /divider -->
+    <!-- products start -->
+    <!-- products 1 & 2-->
+    <mj-section background-color="#FFFFFF" padding="0 16px">
+      <mj-column padding-top="24px">
+        <mj-image border-radius="4px" border="3px solid #000000" href="#" src="https://i.ibb.co/PwPwG5L/image-01a-opt.jpg" alt="Whipped Honey with Lemon image" />
+        <mj-text align="center" line-height="20px" font-weight="600" font-size="20px" color="deeppink">Dragon's Embrace</mj-text>
+        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Dive into a world of mythical allure with our "Dragon's Embrace" white t-shirt.</mj-text>
+      </mj-column>
+
+      <mj-column padding-top="24px">
+        <mj-image border-radius="4px" border="3px solid #000000" href="#" src="https://i.ibb.co/QMRvzVR/image-02-opt.jpg" alt="Whipped Honey Original image" />
+        <mj-text align="center" line-height="20px" font-weight="600" font-size="20px" color="deeppink">Whispers of Nature</mj-text>
+        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Embrace the harmony of nature with our "Whispers of Nature" white t-shirt.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- /products 1 & 2-->
+    <!-- products 3 & 4-->
+    <mj-section background-color="#FFFFFF" padding="0 20px 30px 20px">
+      <mj-column padding-top="24px">
+        <mj-image border-radius="4px" border="3px solid #000000" href="#" src="https://i.ibb.co/WtWQ8Kx/image-03-opt.jpg" alt="Whipped Honey with Cinnamon image" />
+        <mj-text align="center" line-height="20px" font-weight="600" font-size="20px" color="deeppink">Fierce Fury</mj-text>
+        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Unleash your inner strength with our "Fierce Fury" white t-shirt featuring the intense gaze of an angry tiger.</mj-text>
+      </mj-column>
+      <mj-column padding-top="24px">
+        <mj-image border-radius="4px" border="3px solid #000000" href="#" src="https://i.ibb.co/bWPh3S9/image-04-opt.jpg" alt="Whipped Honey with Cinnamon image" />
+        <mj-text align="center" line-height="20px" font-weight="600" font-size="20px" color="deeppink">Ethereal Guardians</mj-text>
+        <mj-text align="center" line-height="24px" font-size="18px" font-family="Poppins, Helvetica" color="#000000">Step into a realm where the ethereal meets the mysterious with our "Ethereal Guardians" white t-shirt. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- /products 3 & 4-->
+    <!-- /products end-->
+
+    <!-- CTA 2 -->
+    <mj-section padding="0" background-color="#FFFFFF">
+      <mj-column padding="2px 0 20px 0">
+        <mj-button href="#" width="100%" height="55px" border-radius="4px" background-color="#000000" color="deeppink" border="2px solid #000000" font-size="18px" font-weight="600" text-transform="uppercase" href="https://savannahbee.com/collections/whipped-honey">Snag Your Epic Tee Now!</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- /CTA 2 -->
+
+    <!-- divider -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-divider border-width="3px" border-style="solid" border-color="#000000" width="50%" padding="10px 10px 60px 10px" />
+      </mj-column>
+    </mj-section>
+    <!-- /divider -->
+
+    <!-- company boilerplate -->
+    <mj-section background-color="#000000" padding="20px">
+      <mj-column width="100%">
+        <mj-text line-height="1.5" font-size="20px" font-family="Poppins, Helvetica" font-weight="700" color="#FFFFFF">At Sail Eternity, we believe in capturing the essence of wanderlust and exploration in every stitch, weaving tales of nautical escapades and coastal charm into our designs. Inspired by the boundless expanse of the ocean, our clothing celebrates the freedom of movement and the allure of discovery.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- /company boilerplate -->
+
+    <!-- footr -->
+    <!-- sail eternity logo -->
+    <mj-section background-color="#FFFFFF" padding="60px 20px 40px 20px">
+      <mj-column>
+        <mj-image width="60px" height="60px" padding="0" border-radius="100px" src="https://i.ibb.co/jZT7cHM/se-logo-opt.jpg" alt="Savannah Bee Company Logo" href="#">
+      </mj-column>
+    </mj-section>
+    <!-- /sail eternity logo -->
+    <!-- <mj-section background-color="#FFFFFF" padding="70px 20px 40px 20px">
+      <mj-column>
+        <mj-image align="left" padding="0 24px" width="100px" src="https://i.ibb.co/HqnVpQy/image-05-logo-opt.jpg" alt="Savannah Bee Company Logo" href="https://savannahbee.com/">
+      </mj-column>
+    </mj-section> -->
+
+    <mj-section background-color="#FFFFFF" padding="10px 20px 20px 20px">
+      <mj-column>
+
+        <mj-text align="center" line-height="0.5" font-size="20px" font-weight="600" color="deeppink" padding="8px 0">
+          Contact
+        </mj-text>
+
+        <mj-text align="center" padding-bottom="24px" font-size="16px" color="#000000" line-height="22px" font-family="Poppins, Helvetica" padding="0">
+          Manager: Monica Kenyon <br> Email: monica@savannahbee.com <br> Phone: (928) 862-2996
+        </mj-text>
+        <!-- </mj-column> -->
+        <!-- <mj-column> -->
+        <mj-text align="center" line-height="0.5" font-size="20px" font-weight="600" color="deeppink" padding="8px 0">
+          Address
+        </mj-text>
+        <mj-text align="center" font-family="Poppins, Helvetica" font-size="16px" color="#000000" line-height="22px" padding="0">
+          390 N State Route 89A <br>Sedona, AZ 8633 <br> You can reach us by phone at 1-800-955-5080. <br> We answer the phone 8:30AM to 5PM EST. <br>Monday through Friday.
+        </mj-text>
+        <mj-button background-color="#FFFFFF" color="deeppink" font-size="18px" href="#">Unsubscribe</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- /footr -->
+
+    <!-- social icons -->
+    <mj-section background-color="#FFFFFF" padding="18px 24px 36px 12px">
+      <mj-column>
+        <mj-social align="center" padding="0">
+          <mj-social-element background-color="#000000" border-radius="20px" href="https://www.instagram.com/savannahbeeco/" name="instagram"></mj-social-element>
+          <mj-social-element background-color="#000000" border-radius="20px" href="https://www.facebook.com/savannahbeecompany/" name="facebook"></mj-social-element>
+          <mj-social-element background-color="#000000" border-radius="20px" href="https://www.youtube.com/c/SavannahbeeCo" name="youtube"></mj-social-element>
+          <mj-social-element background-color="#000000" border-radius="20px" href="https://twitter.com/SavannahBeeCo/" name="twitter"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- /social icons -->
+
+    <!-- end footr -->
+    <mj-section background-color="#000000" padding="8px">
+      <mj-column>
+        <mj-text align="center" font-size="13px" font-family="Poppins, Helvetica" font-weight="500" color="#FAFAFA">Copyright© 2024 SailEternity</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- /end footr -->
+
+  </mj-body>
+</mjml>
