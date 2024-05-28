@@ -6,6 +6,10 @@
       span {
         color: #FF1493;
       }
+
+      body {
+        margin: 40px 0;
+      }
     </mj-style>
     <mj-attributes>
       <mj-all font-family="Poppins, Helvetica" />
@@ -15,7 +19,7 @@
     <mj-font name="Permanent Marker" href='https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap' />
   </mj-head>
 
-  <mj-body background-color="#999999">
+  <mj-body background-color="#EB68AD">
     <!-- banner -->
     <mj-section background-color="#000000" padding="8px">
       <mj-column>
