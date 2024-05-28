@@ -6,10 +6,6 @@
       span {
         color: #FF1493;
       }
-
-      body {
-        margin: 40px 0;
-      }
     </mj-style>
     <mj-attributes>
       <mj-all font-family="Poppins, Helvetica" />
