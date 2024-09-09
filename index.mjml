@@ -151,7 +151,7 @@
         </mj-text>
 
         <mj-text align="center" padding-bottom="24px" font-size="16px" color="#000000" line-height="22px" font-family="Poppins, Helvetica" padding="0">
-          Manager: Monica Kenyon <br> monica@savannahbee.com <br> (928) 862-2996
+          Manager: Jocelyn Kenyon <br> jocelynK@saileternity.com <br> (123) 456-6789
         </mj-text>
       </mj-column>
       <mj-column>
@@ -159,7 +159,7 @@
           Address
         </mj-text>
         <mj-text align="center" font-family="Poppins, Helvetica" font-size="16px" color="#000000" line-height="22px" padding="0">
-          390 N State Route 89A <br>Sedona, AZ 8633 <br>
+          123 N State Route 19A <br>World Wide, USA 12345 <br>
         </mj-text>
         <mj-button background-color="#FFFFFF" color="#000000" font-size="18px" href="#">Unsubscribe</mj-button>
 
